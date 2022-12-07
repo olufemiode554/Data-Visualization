@@ -5,7 +5,7 @@
 
 [link to dashboard](https://public.tableau.com/views/Top20CountriesVersion2/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
---------------------------
+---------------------------------------------------------
 
 The Data Protection Act (2018) sets out the guidelines for data protection law in the UK. It updates and replaces the Data protection Act 1998 and came into effect on 25th May 2018.
  It was amended on 01 January 2021 by regulations under the European union (withdrawal) Act 2018, to reflect the UK’S Status outside the EU, The Data protection Act 2018 controls how your personal information is used by organisations, businesses, or the government.
@@ -13,6 +13,7 @@ Copyright, Design, and patents Act 1988
 It gives the creator or author the exclusive right to copy, communicate, lend, or sell copies of the work.
 
 ----------------------------------------------------------------
+ These are the steps i took to cleanse and protect the data and created the dashboard on tableau for top 20 Visualization.
 
 Step one 
 Password Created to protect unauthorized person to adjust data.
